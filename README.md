@@ -1,4 +1,4 @@
-# Go/React/TypeScript Fullstack App TypeScript, React Query, MongoDB, ChakraUI
+# Go/React/TypeScript Fullstack App for handling tasks and todos.
 
 Some Features:
 
